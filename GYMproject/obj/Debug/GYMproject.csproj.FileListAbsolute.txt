@@ -1,0 +1,17 @@
+C:\Users\Thuthi\source\repos\GYMproject\GYMproject\bin\Debug\GYMproject.exe.config
+C:\Users\Thuthi\source\repos\GYMproject\GYMproject\bin\Debug\GYMproject.exe
+C:\Users\Thuthi\source\repos\GYMproject\GYMproject\bin\Debug\GYMproject.pdb
+C:\Users\Thuthi\source\repos\GYMproject\GYMproject\obj\Debug\GYMproject.csproj.AssemblyReference.cache
+C:\Users\Thuthi\source\repos\GYMproject\GYMproject\obj\Debug\GYMproject.Form1.resources
+C:\Users\Thuthi\source\repos\GYMproject\GYMproject\obj\Debug\GYMproject.Form2.resources
+C:\Users\Thuthi\source\repos\GYMproject\GYMproject\obj\Debug\GYMproject.Properties.Resources.resources
+C:\Users\Thuthi\source\repos\GYMproject\GYMproject\obj\Debug\GYMproject.csproj.GenerateResource.cache
+C:\Users\Thuthi\source\repos\GYMproject\GYMproject\obj\Debug\GYMproject.csproj.CoreCompileInputs.cache
+C:\Users\Thuthi\source\repos\GYMproject\GYMproject\obj\Debug\GYMproject.exe
+C:\Users\Thuthi\source\repos\GYMproject\GYMproject\obj\Debug\GYMproject.pdb
+C:\Users\Thuthi\source\repos\GYMproject\GYMproject\obj\Debug\GYMproject.Form3.resources
+C:\Users\Thuthi\source\repos\GYMproject\GYMproject\obj\Debug\GYMproject.Form4.resources
+C:\Users\Thuthi\source\repos\GYMproject\GYMproject\obj\Debug\GYMproject.viewDetails.resources
+C:\Users\Thuthi\source\repos\GYMproject\GYMproject\obj\Debug\GYMproject.updateDeleteUI.resources
+C:\Users\Thuthi\source\repos\GYMproject\GYMproject\obj\Debug\GYMproject.memberPerformance.resources
+C:\Users\Thuthi\source\repos\GYMproject\GYMproject\obj\Debug\GYMproject.payment.resources
